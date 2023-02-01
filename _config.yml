@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Kurugai's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "쿠루가이"
-description              : "프로그래밍 공부한 것 기록하는 공간이다"
+description              : "프로그래밍 공부한 것 기록하는 공간입니다. <br> 블로그 포스팅 내용 중 잘못된 부분이 있으면 적극적으로 댓글남겨주시면 감사하겠습니다."
 url                      : "https://kurugai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "쿠루가이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나는 **자연인** 이다."
-  location         : "경기도 화성시"
-  email            :
+  bio              : "프로그래밍에대해 공부한 것 기록하는 공간입니다."
+  location         : "대한민국"
+  email            : "hwyoon@live.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
