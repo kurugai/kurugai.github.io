@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "KURUGAI"
+  name             : "쿠루가이"
   avatar           : "https://user-images.githubusercontent.com/42318591/108615416-2e1bb580-7447-11eb-8a54-6338e53ce625.png"
-  bio              : "반갑습니다 :)"
+  bio              : "취미로 프로그래밍하는 중년 :)"
   location         : "Hwasung, South Korea"
   links:
     - label: "Email"
