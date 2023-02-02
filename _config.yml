@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/images/my-cat.jpg" # Open Graph/Twitter default site image
+og_image                 :  "/assets/images/hwyoon.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "쿠루가이"
-  avatar           : "https://user-images.githubusercontent.com/42318591/108615416-2e1bb580-7447-11eb-8a54-6338e53ce625.png"
-  bio              : "취미로 프로그래밍하는 중년 :)"
+  avatar           : "/assets/images/hwyoon.jpg"
+  bio              : "프로그래머가 되고싶은 중년 :)"
   location         : "Hwasung, South Korea"
   links:
     - label: "Email"
@@ -112,7 +112,7 @@ author:
       # url: "https://your-website.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    #   url: "https://twitter.com/kurugai4u"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
