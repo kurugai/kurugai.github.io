@@ -7,8 +7,13 @@
       <li>
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
+<<<<<<< HEAD
       <li>        
         <span class="nav__sub-title">Python</span> <!-- Python은 _posts/Python 임...폴더명-->
+=======
+      <li>
+        <span class="nav__sub-title">Python</span>
+>>>>>>> 40bc3f0402b5462ce6b4aec5f526ed5a460e5b98
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python" %}
@@ -16,6 +21,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+<<<<<<< HEAD
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python-basic" %}
@@ -23,6 +29,8 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+=======
+>>>>>>> 40bc3f0402b5462ce6b4aec5f526ed5a460e5b98
       </li>
       <li>	
             <br>      
@@ -30,4 +38,3 @@
       </li>
   </ul>
 </nav>
-
