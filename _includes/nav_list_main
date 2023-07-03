@@ -24,6 +24,16 @@
                 {% endfor %}
             </ul>
       </li>
+      <li>        
+        <span class="nav__sub-title">Css</span> <!-- Python은 _posts/Python 임...폴더명-->
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Css" %}
+                        <li><a href="/categories/css" class="">CSS Flex와 Grid 제대로 익히기 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
       <li>	
             <br>      
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkurugaiblog%2Fhit-counter&count_bg=%23C8B83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
